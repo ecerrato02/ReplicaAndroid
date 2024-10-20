@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Replica</string>
+    <string name="descripción_gorila">Gorila sofá, literalmente gorila sofá Gorila sofá, \n
+    Gorila sofá, literalmente gorila sofá Gorila sofá, \n
+    Gorila sofá, literalmente gorila sofá Gorila sofá, \n
+    </string>
+    <string name="account">Create new \n account</string>
+
+
+    <string-array name="calidades">
+        <item>DELUXE</item>
+        <item>NORMAL</item>
+        <item>POCHO</item>
+    </string-array>
+</resources>
